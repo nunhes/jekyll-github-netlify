@@ -5,4 +5,5 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, or o
 Using netlify to generate and scafollding...
 
 
-planner-continuity-86340
+Preview
+https://planner-jekyll-github.netlify.com/
